@@ -56,3 +56,6 @@ https://github.com/Forry04/GamerGuide
 
 
 https://airamek.github.io/aspnet-tutorial/
+
+
+https://github.com/BevizLaszlo/REST-API-with-ASP.NET-tutorial
